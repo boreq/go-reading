@@ -1,7 +1,7 @@
 language: go
 
 go:
-  - "latest"
+  - "stable"
 
 script:
   - make test-ci
