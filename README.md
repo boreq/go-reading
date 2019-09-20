@@ -1,4 +1,4 @@
-# reading [![GoDoc](https://godoc.org/github.com/boreq/go-reading?status.svg)](https://godoc.org/github.com/boreq/go-reading)
+# reading [![GoDoc](https://godoc.org/github.com/boreq/go-reading?status.svg)](https://godoc.org/github.com/boreq/go-reading) [![Build Status](https://travis-ci.org/boreq/go-reading.svg?branch=master)](https://travis-ci.org/boreq/go-reading) [![codecov](https://codecov.io/gh/boreq/go-reading/branch/master/graph/badge.svg)](https://codecov.io/gh/boreq/go-reading)
 
 A Go library which calculates the time needed by an average human to read the
 provided text.
